@@ -12,8 +12,7 @@
 <a href="https://auth.geeksforgeeks.org/user/venkateshkkutf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="venkateshkkutf" height="30" width="40" /></a>
 </p>
 
-
-
+<p>🛠 Language and tools</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
